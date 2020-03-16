@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: dstrebel/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-hb
     replicaCount: 1
     hpa:
       enabled: false
